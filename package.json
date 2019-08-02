@@ -1,0 +1,23 @@
+{
+  "name": "qarbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.5.10",
+    "express": "^4.17.0",
+    "child-process": "^1.0.2",
+    "nodemailer": "^6.2.1",
+    "crypt": "^0.0.2",
+    "utils": "^0.3.1",
+    "jsx": "^0.9.89",
+    "pug": "^2.0.3",
+    "ejs": "^2.6.1",
+    "body-parser": "^1.19.0"
+  }
+}

@@ -1,0 +1,12 @@
+* {
+  font-family: monospace;
+}
+code { 
+    background: hsl(220, 80%, 90%);
+    width: 100%;
+}
+
+pre {
+    white-space: pre-wrap;
+    background: hsl(30,80%,90%);
+}
