@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mongoose": "^5.5.10",
+    "mongoose": "^5.7.5",
     "express": "^4.17.0",
     "child-process": "^1.0.2",
     "nodemailer": "^6.2.1",
